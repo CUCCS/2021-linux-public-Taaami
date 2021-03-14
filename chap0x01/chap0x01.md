@@ -2,7 +2,7 @@
 ### 1.0 实验过程
 #### 1.1 纯净版Ubuntu安装
 - iso下载版本 :`ubuntu-20.04.2-live-server-amd64.iso`，下载完成后校验`SHA256`
-![iso](img\iso.png)
+![iso](img/iso.png)
 ![SHA256](.\img\SHA256.png)
 - 挂载纯净版镜像，设置网卡为`NAT`和`Host-Only`，启动虚拟机安装
 ![网卡设置](.\img\网卡.png)
